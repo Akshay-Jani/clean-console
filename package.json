@@ -1,0 +1,21 @@
+{
+  "name": "remove-log",
+  "version": "1.0.0",
+  "description": "Removes all console.* lines from files.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "clear",
+    "clean console"
+  ],
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "remove-log": "^0.0.8"
+  }
+}
