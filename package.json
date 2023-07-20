@@ -1,9 +1,11 @@
 {
   "name": "remove-console-msg",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Removes all console.* lines from files.",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "make-them-go":"index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,8 +16,5 @@
   ],
   "type": "module",
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "remove-console-msg": "^0.0.8"
-  }
+  "license": "MIT"
 }
