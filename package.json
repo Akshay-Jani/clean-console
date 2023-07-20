@@ -1,5 +1,5 @@
 {
-  "name": "remove-log",
+  "name": "remove-console-msg",
   "version": "1.0.0",
   "description": "Removes all console.* lines from files.",
   "main": "index.js",
@@ -16,6 +16,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "remove-log": "^0.0.8"
+    "remove-console-msg": "^0.0.8"
   }
 }
