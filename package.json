@@ -12,7 +12,10 @@
   "keywords": [
     "console",
     "clear",
-    "clean console"
+    "clean console",
+    "remove",
+    "console",
+    "log"
   ],
   "type": "module",
   "author": "",
