@@ -1,6 +1,8 @@
 # remove-console-msg
 
 A package with the ability to remove all the console.* statement from your code.
+# Note
+As of v1.0.6, it is also possible to remove debug statements.
 
 # Usage
 
