@@ -1,14 +1,14 @@
-function getArgs(args){
+function canProceed(args) {
     let flag = false;
-    if(args && args.includes('make-them-go')){
+    if (args && args.includes('make-them-go')) {
         flag = true;
     }
-    else{
+    else {
         flag = false;
     }
     return flag;
 }
 
-export{
-    getArgs
+export {
+    canProceed
 }
