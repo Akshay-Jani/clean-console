@@ -12,6 +12,6 @@ This is a CLI package. Once installed in the project directory, execute the belo
 npx remove-console-msg make-them-go
 ```
 
-## Note
+### Note
 This command will scan all the files present on the same level as the directory
 that currently terminal targets as well as all the sub-directories.
